@@ -28,7 +28,7 @@ I'm an **entry-level Data Analyst** and **MS Information Systems** candidate at 
 
 - 🎓 **Education:** M.S. Information Systems @ Central Michigan University *(May 2026)*
 - 🔬 **Focus:** ETL Pipelines · Predictive Modeling · BI Dashboards · Cloud Data Engineering
-- 🏆 **Certifications:** AWS Cloud Practitioner · Kafka Fundamentals · CUDA (NVIDIA) · Python & SQL (Coursera)
+- 🏆 **Certifications:** AWS Cloud Practitioner · Kafka Fundamentals · Python & SQL
 - 🌍 **Based in:** Mount Pleasant, MI — open to remote & hybrid roles
 - 💡 **Superpower:** Making sense of messy, large-scale data and presenting it so stakeholders actually understand it
 - ⚡ **Fun fact:** My posture detection model went from F1: 0.74 → 0.91 through feature-engineering alone
@@ -143,9 +143,8 @@ I'm an **entry-level Data Analyst** and **MS Information Systems** candidate at 
 |---|---|---|
 | ☁️ | AWS Certified Cloud Practitioner | Amazon Web Services |
 | 📨 | Kafka Fundamentals | Confluent |
-| 🧠 | CUDA Programming | NVIDIA Deep Learning Institute |
-| 🐍 | Python Programming | Coursera |
-| 🗄️ | SQL for Data Analysis | Coursera |
+| 🐍 | Python Programming | Codedex |
+| 🗄️ | SQL for Data Analysis | W3Schools |
 | 🔢 | Data Structures & Algorithms | Coursera |
 
 ---
